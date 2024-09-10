@@ -15,7 +15,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ᴅᴇᴠɪʟ ᴍ�
 </p>
 
 <h3 align="center">
-**##Deployment Will Be Available After 500 Stars On This Repository**
+**Deployment Will Be Available After 200 Stars On This Repository**
   
 
 <p align="center">
