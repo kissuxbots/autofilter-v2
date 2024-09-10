@@ -14,8 +14,8 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ᴅᴇᴠɪʟ ᴍ�
 <b>𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦</b>
 </p>
 
-<h3 align="center">
-**Deployment Will Be Available After 200 Stars On This Repository**
+<h2 align="center">
+Deployment Will Be Available After 200 Stars On This Repository
   
 
 <p align="center">
