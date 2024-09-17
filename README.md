@@ -104,7 +104,6 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ᴅᴇᴠɪʟ ᴍ�
 <h3 align="center">
     ─「 ᴄʀᴇᴅɪᴛs 」─
 </h3>
-* [![MrMkn](https://img.shields.io/static/v1?label=BASE&message=REPO&color=green)](https://t.me/mrmkn)
 - <b>[𓆩•𝐊𝐢𝐬𝐬𝐮💞•𓆪](https://github.com/ishan-rajput)</b>
  
 <b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://github.com/kissuXbots/AutoFilter/graphs/contributors) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ ᴅᴇᴠɪʟ ᴍᴏᴠɪᴇs ʙᴏᴛ ᴜsᴇғᴜʟ & ᴩᴏᴡᴇʀғᴜʟ 🌸 </b>
